@@ -38,8 +38,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "calculations",
-            "calculations.json"
+            "calculate",
+            "calculate.json"
           ]
         }
       ],
